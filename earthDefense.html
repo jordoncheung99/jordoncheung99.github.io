@@ -1,0 +1,124 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Elements - Solid State by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<h1><a href="index.html">Solid State</a></h1>
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="index.html">Home</a></li>
+								<li><a href="generic.html">Generic</a></li>
+								<li><a href="elements.html">Elements</a></li>
+								<li><a href="earthDefense.html">Earth Defense</a></li>
+								<li><a href="#">Sign Up</a></li>
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+						<header>
+							<div class="inner">
+								<h2>Earth Defense</h2>
+								<p>Java based game written in processing</p>
+							</div>
+						</header>
+
+						<!-- Content -->
+							<div class="wrapper">
+								<div class="inner">
+
+									<!-- Purpose + imeded java code -->
+									<section>
+										<h3 class="major">Purpose</h3>
+										<p> This was a game written in processing, in combinations with <u><a href="https://schulichignite.com">Schulich Ignite</a></u> to demonstrate what could be done using java and the processing library.
+											Ignite offered free programming to highschool and univeristy students, and as a mentor and a lecturer, i wanted to demonstrate why someone should continue with programming despite its dificulties.
+											One of the most impressive ways i could show it was by creating a game, where is used many aspects of what we taught just at a higher level.
+										</p>
+									</section>
+
+									<!-- Talk about desgin choices-->
+									<section>
+										<h3 class="major">Technical aspects</h3>
+										<!-- This section is about some of technical details of the game-->
+										<p>
+											The first version of this game was actually written when I was a mentee of <u><a href="https://schulichignite.com">Schulich Ignite</a></u>,
+											there were aspects of coding which I didn't understand at the time and wanted to prove to myself to show how much of improvement as a programer and a game desginer.
+							
+										</p>
+
+										<p>
+											First was a good way to store all the enemies and bullets, a linkedList was choosen to do this.
+											A linkedList was chosen over an arrayList because when an element (enemies and bullets) was removed from it, all of the elements in an arrayList would have to be recreated in order to remove an element. 
+											This a costly operation and removing from the datastructure would happen often, thus a linkedList was choosen.
+											Since a linkedList for insertion and deleting is in O(1) in worst cases, although searching is in O(n) but so is an arrayList.
+											In hinde sight, I should of used Hash table as the average cases for a HashTable for insertion, deletion and searching is in O(1),
+											but given I haven't take my data strucutres coruse and it was meant to show what could be done with realatively basic knowledge i'll give myself a pass on this.
+										</p>
+
+										<p>
+											During the creation I learned about inheritance, I wanted to implement some better programming features into my game. 
+											while not an easy or basic concept, I figured that since my first version used only an Array and iterated through it to do enemy logic, I should expand what it could do while still using this as the basic concept.										
+											Thus I made enemies and weapons abstract classes and then all enemy and weapon types inherited from this. This allowed me to easily create different and varied types of weapons and enemies. 
+											From these concepts I created 3 new enemies that were not in the original version, Brute, Gremlin and Swarm Host. These used the concepts I’d learned such as overloading functions and constructors to create different behaviours while still having the same “AI” driving it.
+										</p>
+										<p>
+												As I looked back on the code to write this section, I realized all the aspects that I could of done better to increase modularity and cohesion while decreasing coupling. 
+												Some things such as implementing interfaces to allow change how something behaviors rather than using the same logic for each type of enemy. 
+												There’s also some bad code due to a (at the time) lazy programmer, perhaps one day I’ll go back and rewrite the game a third time using the knowledge gained from more years of experience.
+										</p>
+									</section>
+
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							<h2 class="major">Get in touch</h2>
+							<ul class="contact">
+								<li class="icon solid fa-phone">(587) 894-2997</li>
+								<li class="icon solid fa-envelope">jordoncheung99@gmail.com</li>
+								<li><a href="https://github.com/jordoncheung99" class="icon brands fa-github"><span class="label">Github</span></a></li>
+							</ul>
+							<ul class="copyright">
+								<li>&copy; Untitled Inc. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
