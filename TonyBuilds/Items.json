@@ -1,0 +1,628 @@
+﻿{
+    "Boots": [
+        {
+            "Name": "Berserker's Greaves",
+"ImagePath": "Berserkers_Greaves.png",
+            "AttackSpeed": "35",
+            "MoveSpeed": "45",
+            "Cost": "1100"
+        },
+        {
+            "Name": "Boots of Swiftness",
+"ImagePath": "Boots_of_Swiftness.png",
+            "MoveSpeed": "60",
+            "Cost": "900"
+        },
+        {
+            "Name": "Mobility Boots",
+"ImagePath": "Mobility_Boots.png",
+            "MoveSpeed": "115",
+            "Cost": "1000"
+        },
+        {
+            "Name": "Mercury's Treads",
+"ImagePath": "Mercurys_Treads.png",
+            "MagicResist": "25",
+            "MoveSpeed": "45",
+            "Tenacity": "30",
+            "Cost": "1100"
+        },
+        {
+            "Name": "Plated Steelcaps",
+"ImagePath": "Plated_Steelcaps.png",
+            "Armor": "20",
+            "MoveSpeed": "45",
+            "Cost": "1100"
+        },
+        {
+            "Name": "Ionian Boots of Lucidity",
+"ImagePath": "Ionian_Boots_of_Lucidity.png",
+            "AbilityHaste": "20",
+            "MoveSpeed": "45",
+            "Cost": "950"
+        },
+        {
+            "Name": "Sorcerer's Shoes",
+"ImagePath": "Sorcerers_Shoes.png",
+            "MagicPen": "18",
+            "MoveSpeed": "45",
+            "Cost": "1100"
+        }
+    ],
+    "Mythics": [
+        {
+            "Name": "Divine Sunderer",
+"ImagePath": "Divine_Sunderer.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "35",
+            "Health": "400"
+        },
+        {
+            "Name": "Duskblade of Draktharr",
+"ImagePath": "Duskblade_of_Draktharr.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "60",
+            "Lethality": "18"
+        },
+        {
+            "Name": "Eclipse",
+"ImagePath": "Eclipse.png",
+            "AttackDamage": "55",
+            "Lethality": "18",
+            "OmniVamp": "8"
+        },
+        {
+            "Name": "Everfrost",
+"ImagePath": "Everfrost.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "20",
+            "Health": "250",
+            "Mana": "600"
+        },
+        {
+            "Name": "Galeforce",
+"ImagePath": "Galeforce.png",
+            "AttackDamage": "60",
+            "AttackSpeed": "20",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Goredrinker",
+"ImagePath": "Goredrinker.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "45",
+            "Health": "400",
+            "HealthRegen": "150"
+        },
+        {
+            "Name": "Hextech Rocketbelt",
+"ImagePath": "Hextech_Rocketbelt.png",
+            "AbilityPower": "90",
+            "AbilityHaste": "15",
+            "MagicPen": "6",
+            "Health": "250"
+        },
+        {
+            "Name": "Immortal Shieldbow",
+"ImagePath": "Immortal_Shieldbow.png",
+            "AttackDamage": "55",
+            "AttackSpeed": "20",
+            "CritChance": "20",
+            "LifeSteal": "10"
+        },
+        {
+            "Name": "Imperial Mandate",
+"ImagePath": "Imperial_Mandate.png",
+            "AbilityPower": "40",
+            "AbilityHaste": "20",
+            "Health": "200",
+            "ManaRegen": "100"
+        },
+        {
+            "Name": "Kraken Slayer",
+"ImagePath": "Kraken_Slayer.png",
+            "AttackDamage": "65",
+            "AttackSpeed": "25",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Liandry's Anguish",
+"ImagePath": "Liandrys_Anguish.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "20",
+            "Mana": "600"
+        },
+        {
+            "Name": "Locket of the Iron Solari",
+"ImagePath": "Locket_of_the_Iron_Solari.png",
+            "AbilityHaste": "20",
+            "Health": "200",
+            "Armor": "30",
+            "MagicResist": "30"
+        },
+        {
+            "Name": "Luden's Tempest",
+"ImagePath": "Ludens_Tempest.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "20",
+            "Mana": "600"
+        },
+        {
+            "Name": "Moonstone Renewer",
+"ImagePath": "Moonstone_Renewer.png",
+            "AbilityPower": "40",
+            "AbilityHaste": "20",
+            "Health": "200",
+            "ManaRegen": "100"
+        },
+        {
+            "Name": "Night Harvester",
+"ImagePath": "Night_Harvester.png",
+            "AbilityPower": "90",
+            "AbilityHaste": "15",
+            "Health": "300"
+        },
+        {
+            "Name": "Prowler's Claw",
+"ImagePath": "Prowlers_Claw.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "60",
+            "Lethality": "18"
+        },
+        {
+            "Name": "Riftmaker",
+"ImagePath": "Riftmaker.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "15",
+            "Health": "300",
+            "OmniVamp": "8"
+        },
+        {
+            "Name": "Shurelya's Battlesong",
+"ImagePath": "Shurelyas_Battlesong.png",
+            "AbilityPower": "40",
+            "AbilityHaste": "20",
+            "Health": "200",
+            "ManaRegen": "100"
+        },
+        {
+            "Name": "Stridebreaker",
+"ImagePath": "Stridebreaker.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "45",
+            "AttackSpeed": "20",
+            "Health": "300"
+        },
+        {
+            "Name": "Sunfire Aegis",
+"ImagePath": "Sunfire_Aegis.png",
+            "AbilityHaste": "20",
+            "Health": "350",
+            "Armor": "30",
+            "MagicResist": "30"
+        },
+        {
+            "Name": "Trinity Force",
+"ImagePath": "Trinity_Force.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "35",
+            "AttackSpeed": "30",
+            "Health": "200"
+        },
+        {
+            "Name": "Turbo Chemtank",
+"ImagePath": "Turbo_Chemtank.png",
+            "AbilityHaste": "20",
+            "Health": "350",
+            "Armor": "25",
+            "MagicResist": "25"
+        }
+    ],
+    "Legendary": [
+        {
+            "Name": "Abyssal Mask",
+"ImagePath": "Abyssal_Mask.png",
+            "Health": "400",
+            "MagicResist": "60"
+        },
+        {
+            "Name": "Anathema's Chains",
+"ImagePath": "Anathemas_Chains.png",
+            "AbilityHaste": "20",
+            "Health": "650"
+        },
+        {
+            "Name": "Archangel's Staff",
+"ImagePath": "Archangels_Staff.png",
+            "AbilityPower": "65",
+            "Mana": "500"
+        },
+        {
+            "Name": "Ardent Censer",
+"ImagePath": "Ardent_Censer.png",
+            "AbilityPower": "60",
+            "ManaRegen": "100",
+            "HealShieldPower": "10",
+            "Heal": "TRUE"
+        },
+        {
+            "Name": "Banshee's Veil",
+"ImagePath": "Banshees_Veil.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "10",
+            "MagicResist": "45"
+        },
+        {
+            "Name": "Black Cleaver",
+"ImagePath": "Black_Cleaver.png",
+            "AbilityHaste": "25",
+            "AttackDamage": "40",
+            "Health": "450"
+        },
+        {
+            "Name": "Blade of the Ruined King",
+"ImagePath": "Blade_of_the_Ruined_King.png",
+            "AttackDamage": "40",
+            "AttackSpeed": "25",
+            "LifeSteal": "10"
+        },
+        {
+            "Name": "Bloodthirster",
+"ImagePath": "Bloodthirster.png",
+            "AttackDamage": "55",
+            "CritChance": "20",
+            "LifeSteal": "20"
+        },
+        {
+            "Name": "Chempunk Chainsword",
+"ImagePath": "Chempunk_Chainsword.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "45",
+            "Health": "250"
+        },
+        {
+            "Name": "Chemtech Putrifier",
+"ImagePath": "Chemtech_Putrifier.png",
+            "AbilityPower": "55",
+            "AbilityHaste": "20",
+            "ManaRegen": "100"
+        },
+        {
+            "Name": "Cosmic Drive",
+"ImagePath": "Cosmic_Drive.png",
+            "AbilityPower": "80",
+            "AbilityHaste": "20",
+            "Health": "200"
+        },
+        {
+            "Name": "Dead Man's Plate",
+"ImagePath": "Dead_Mans_Plate.png",
+            "Health": "300",
+            "Armor": "45",
+            "PercentMoveSpeed": "5"
+        },
+        {
+            "Name": "Death's Dance",
+"ImagePath": "Deaths_Dance.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "55",
+            "Armor": "45"
+        },
+        {
+            "Name": "Demonic Embrace",
+"ImagePath": "Demonic_Embrace.png",
+            "AbilityPower": "70",
+            "Health": "350"
+        },
+        {
+            "Name": "Edge of Night",
+"ImagePath": "Edge_of_Night.png",
+            "AttackDamage": "50",
+            "Lethality": "10",
+            "Health": "325"
+        },
+        {
+            "Name": "Essence Reaver",
+"ImagePath": "Essence_Reaver.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "45",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Force of Nature",
+"ImagePath": "Force_of_Nature.png",
+            "Health": "350",
+            "MagicResist": "60",
+            "PercentMoveSpeed": "5"
+        },
+        {
+            "Name": "Frozen Heart",
+"ImagePath": "Frozen_Heart.png",
+            "AbilityHaste": "20",
+            "Armor": "80",
+            "Mana": "400"
+        },
+        {
+            "Name": "Gargoyle Stoneplate",
+"ImagePath": "Gargoyle_Stoneplate.png",
+            "AbilityHaste": "15",
+            "Armor": "60",
+            "MagicResist": "60"
+        },
+        {
+            "Name": "Guinsoo's Rageblade",
+"ImagePath": "Guinsoos_Rageblade.png",
+            "AttackSpeed": "45",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Horizon Focus",
+"ImagePath": "Horizon_Focus.png",
+            "AbilityPower": "115"
+        },
+        {
+            "Name": "Hullbreaker",
+"ImagePath": "Hullbreaker.png",
+            "AttackDamage": "50",
+            "Health": "400",
+            "HealthRegen": "150"
+        },
+        {
+            "Name": "Infinity Edge",
+"ImagePath": "Infinity_Edge.png",
+            "AttackDamage": "70",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Lord Dominik's Regards",
+"ImagePath": "Lord_Dominiks_Regards.png",
+            "AttackDamage": "30",
+            "Lethality": "35",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Lich Bane",
+"ImagePath": "Lich_Bane.png",
+            "AbilityPower": "75",
+            "PercentMoveSpeed": "8"
+        },
+        {
+            "Name": "Knight's Vow",
+"ImagePath": "Knights_Vow.png",
+            "AbilityHaste": "10",
+            "Health": "400",
+            "HealthRegen": "300"
+        },
+        {
+            "Name": "Mikael's Blessing",
+"ImagePath": "Mikaels_Blessing.png",
+            "AbilityHaste": "15",
+            "MagicResist": "50",
+            "ManaRegen": "100",
+            "HealShieldPower": "20",
+            "Heal": "TRUE"
+        },
+        {
+            "Name": "Mercurial Scimitar",
+"ImagePath": "Mercurial_Scimitar.png",
+            "AttackDamage": "40",
+            "CritChance": "20",
+            "MagicResist": "30"
+        },
+        {
+            "Name": "Maw of Malmortius",
+"ImagePath": "Maw_of_Malmortius.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "50",
+            "MagicResist": "50"
+        },
+        {
+            "Name": "Manamune",
+"ImagePath": "Manamune.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "35",
+            "Mana": "500"
+        },
+        {
+            "Name": "Morellonomicon",
+"ImagePath": "Morellonomicon.png",
+            "AbilityPower": "80",
+            "Health": "250"
+        },
+        {
+            "Name": "Mortal Reminder",
+"ImagePath": "Mortal_Reminder.png",
+            "AttackDamage": "25",
+            "AttackSpeed": "25",
+            "CritChance": "20",
+            "PercentMoveSpeed": "7"
+        },
+        {
+            "Name": "Nashor's Tooth",
+"ImagePath": "Nashors_Tooth.png",
+            "AbilityPower": "100",
+            "AttackSpeed": "50"
+        },
+        {
+            "Name": "Navori Quickblades",
+"ImagePath": "Navori_Quickblades.png",
+            "AbilityHaste": "30",
+            "AttackDamage": "60",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Phantom Dancer",
+"ImagePath": "Phantom_Dancer.png",
+            "AttackDamage": "20",
+            "AttackSpeed": "25",
+            "CritChance": "20",
+            "PercentMoveSpeed": "7"
+        },
+        {
+            "Name": "Rabadon's Deathcap",
+"ImagePath": "Rabadons_Deathcap.png",
+            "AbilityPower": "120"
+        },
+        {
+            "Name": "Randuin's Omen",
+"ImagePath": "Randuins_Omen.png",
+            "AbilityHaste": "10",
+            "Health": "250",
+            "Armor": "80"
+        },
+        {
+            "Name": "Rapid Firecannon",
+"ImagePath": "Rapid_Firecannon.png",
+            "AttackSpeed": "35",
+            "CritChance": "20",
+            "PercentMoveSpeed": "7"
+        },
+        {
+            "Name": "Ravenous Hydra",
+"ImagePath": "Ravenous_Hydra.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "65",
+            "OmniVamp": "10"
+        },
+        {
+            "Name": "Redemption",
+"ImagePath": "Redemption.png",
+            "AbilityHaste": "15",
+            "Health": "200",
+            "ManaRegen": "100",
+            "HealShieldPower": "20",
+            "Heal": "TRUE"
+        },
+        {
+            "Name": "Runaan's hurricane",
+"ImagePath": "Runaans_Hurricane.png",
+            "AttackSpeed": "45",
+            "CritChance": "20",
+            "PercentMoveSpeed": "7"
+        },
+        {
+            "Name": "Rylai's Crystal Scepter",
+"ImagePath": "Rylais_Crystal_Scepter.png",
+            "AbilityPower": "90",
+            "Health": "350"
+        },
+        {
+            "Name": "Serpent's Fang",
+"ImagePath": "Serpents_Fang.png",
+            "AttackDamage": "55",
+            "Lethality": "12"
+        },
+        {
+            "Name": "Serylda's Grudge",
+"ImagePath": "Seryldas_Grudge.png",
+            "AbilityHaste": "20",
+            "AttackDamage": "45",
+            "Lethality": "30"
+        },
+        {
+            "Name": "Silvermere Dawn",
+"ImagePath": "Silvermere_Dawn.png",
+            "AttackDamage": "40",
+            "Health": "300",
+            "MagicResist": "35"
+        },
+        {
+            "Name": "Spirit Visage",
+"ImagePath": "Spirit_Visage.png",
+            "AbilityHaste": "10",
+            "Health": "450",
+            "MagicResist": "40",
+            "HealthRegen": "100"
+        },
+        {
+            "Name": "Staff of Flowing Water",
+"ImagePath": "Staff_of_Flowing_Water.png",
+            "AbilityPower": "50",
+            "ManaRegen": "100",
+            "HealShieldPower": "10",
+            "Heal": "TRUE"
+        },
+        {
+            "Name": "Sterak's Gage",
+"ImagePath": "Steraks_Gage.png",
+            "AttackDamage": "50",
+            "Health": "400"
+        },
+        {
+            "Name": "Stormrazor",
+"ImagePath": "Stormrazor.png",
+            "AttackDamage": "40",
+            "AttackSpeed": "15",
+            "CritChance": "20"
+        },
+        {
+            "Name": "The Collector",
+"ImagePath": "The_Collector.png",
+            "AttackDamage": "55",
+            "Lethality": "12",
+            "CritChance": "20"
+        },
+        {
+            "Name": "Thornmail",
+"ImagePath": "Thornmail.png",
+            "Health": "350",
+            "Armor": "60"
+        },
+        {
+            "Name": "Titanic Hydra",
+"ImagePath": "Titanic_Hydra.png",
+            "AttackDamage": "30",
+            "Health": "500"
+        },
+        {
+            "Name": "Umbral Glaive",
+"ImagePath": "Umbral_Glaive.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "50",
+            "Lethality": "12"
+        },
+        {
+            "Name": "Void Staff",
+"ImagePath": "Void_Staff.png",
+            "AbilityPower": "70",
+            "MagicPen": "40"
+        },
+        {
+            "Name": "Warmog's Armor",
+"ImagePath": "Warmogs_Armor.png",
+            "AbilityHaste": "10",
+            "Health": "800",
+            "HealthRegen": "200"
+        },
+        {
+            "Name": "Wit's End",
+"ImagePath": "Wits_End.png",
+            "AttackDamage": "40",
+            "AttackSpeed": "40",
+            "MagicResist": "50"
+        },
+        {
+            "Name": "Youmuu's Ghostblade",
+"ImagePath": "Youmuus_Ghostblade.png",
+            "AbilityHaste": "15",
+            "AttackDamage": "55",
+            "Lethality": "18"
+        },
+        {
+            "Name": "Zeke's Convergence",
+"ImagePath": "Zekes_Convergence.png",
+            "AbilityHaste": "20",
+            "Health": "250",
+            "Armor": "25",
+            "Mana": "250",
+            "CC": "TRUE"
+        },
+        {
+            "Name": "Zhonya's Hourglass",
+"ImagePath": "Zhonyas_Hourglass.png",
+            "AbilityPower": "65",
+            "AbilityHaste": "10",
+            "Armor": "45"
+        }
+    ]
+}

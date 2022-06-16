@@ -1,0 +1,101 @@
+
+[
+    {
+        "name":"Berserker's Greaves",
+        "scale":{
+            "AS":50,
+            "AD":0,
+            "AP":0,
+            "TANK":0,
+            "CRIT":0,
+            "MS":45,
+            "OTHER":0
+        },
+        "cost":1100,
+        "ranged":false
+    },
+    {
+        "name":"Boots of Swiftness",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":0,
+            "TANK":0,
+            "CRIT":0,
+            "MS":60,
+            "OTHER":0
+        },
+        "cost":900,
+        "ranged":false
+    },
+    {
+        "name":"Mobility Boots",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":0,
+            "TANK":0,
+            "CRIT":0,
+            "MS":35,
+            "OTHER":0
+        },
+        "cost":1000,
+        "ranged":false
+    },    
+    {
+        "name":"Merucry's Treads",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":0,
+            "TANK":10,
+            "CRIT":0,
+            "MS":45,
+            "OTHER":10
+        },
+        "cost":1100,
+        "ranged":false
+    },    
+    {
+        "name":"Plated Steelcaps",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":0,
+            "TANK":10,
+            "CRIT":0,
+            "MS":45,
+            "OTHER":7
+        },
+        "cost":1100,
+        "ranged":false
+    },    
+    {
+        "name":"Ionian Boots of Lucidity",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":0,
+            "TANK":0,
+            "CRIT":0,
+            "MS":45,
+            "OTHER":15
+        },
+        "cost":950,
+        "ranged":false
+    },    
+    {
+        "name":"Sorcerer's Shoes",
+        "scale":{
+            "AS":0,
+            "AD":0,
+            "AP":20,
+            "TANK":0,
+            "CRIT":0,
+            "MS":45,
+            "OTHER":0
+        },
+        "cost":1100,
+        "ranged":false
+    }
+]

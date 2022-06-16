@@ -1,0 +1,6204 @@
+{
+    "Aatrox": {
+        "name": "Aatrox",
+        "title": "the Darkin Blade",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Aatrox.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Blood Well",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 90,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 38,
+            "armorperlevel": 3.25,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 3,
+            "hpregenperlevel": 1,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.651
+        }
+    },
+    "Ahri": {
+        "name": "Ahri",
+        "title": "the Nine-Tailed Fox",
+        "info": {
+            "attack": 3,
+            "defense": 4,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Ahri.png"
+        },
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 526,
+            "hpperlevel": 92,
+            "mp": 418,
+            "mpperlevel": 25,
+            "movespeed": 330,
+            "armor": 21,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.668
+        }
+    },
+    "Akali": {
+        "name": "Akali",
+        "title": "the Rogue Assassin",
+        "info": {
+            "attack": 5,
+            "defense": 3,
+            "magic": 8,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Akali.png"
+        },
+        "tags": [
+            "Assassin"
+        ],
+        "partype": "Energy",
+        "stats": {
+            "hp": 500,
+            "hpperlevel": 105,
+            "mp": 200,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 23,
+            "armorperlevel": 3.5,
+            "spellblock": 37,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.5,
+            "mpregen": 50,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 3.2,
+            "attackspeed": 0.625
+        }
+    },
+    "Akshan": {
+        "name": "Akshan",
+        "title": "the Rogue Sentinel",
+        "info": {
+            "attack": 0,
+            "defense": 0,
+            "magic": 0,
+            "difficulty": 0
+        },
+        "image": {
+            "full": "Akshan.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 90,
+            "mp": 350,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 26,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8.175,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 4,
+            "attackspeed": 0.638
+        }
+    },
+    "Alistar": {
+        "name": "Alistar",
+        "title": "the Minotaur",
+        "info": {
+            "attack": 6,
+            "defense": 9,
+            "magic": 5,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Alistar.png"
+        },
+        "tags": [
+            "Tank",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 106,
+            "mp": 350,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 44,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.85,
+            "mpregen": 8.5,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.75,
+            "attackspeedperlevel": 2.125,
+            "attackspeed": 0.625
+        }
+    },
+    "Amumu": {
+        "name": "Amumu",
+        "title": "the Sad Mummy",
+        "info": {
+            "attack": 2,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Amumu.png"
+        },
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 615,
+            "hpperlevel": 75,
+            "mp": 285,
+            "mpperlevel": 40,
+            "movespeed": 335,
+            "armor": 30,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9,
+            "hpregenperlevel": 0.85,
+            "mpregen": 7.38,
+            "mpregenperlevel": 0.53,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3.8,
+            "attackspeedperlevel": 2.18,
+            "attackspeed": 0.736
+        }
+    },
+    "Anivia": {
+        "name": "Anivia",
+        "title": "the Cryophoenix",
+        "info": {
+            "attack": 1,
+            "defense": 4,
+            "magic": 10,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Anivia.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 480,
+            "hpperlevel": 82,
+            "mp": 495,
+            "mpperlevel": 45,
+            "movespeed": 325,
+            "armor": 21,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 600,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 51,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 1.68,
+            "attackspeed": 0.625
+        }
+    },
+    "Annie": {
+        "name": "Annie",
+        "title": "the Dark Child",
+        "info": {
+            "attack": 2,
+            "defense": 3,
+            "magic": 10,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Annie.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 524,
+            "hpperlevel": 88,
+            "mp": 418,
+            "mpperlevel": 25,
+            "movespeed": 335,
+            "armor": 19,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 625,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 50,
+            "attackdamageperlevel": 2.63,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.579
+        }
+    },
+    "Aphelios": {
+        "name": "Aphelios",
+        "title": "the Weapon of the Faithful",
+        "info": {
+            "attack": 6,
+            "defense": 2,
+            "magic": 1,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Aphelios.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 88,
+            "mp": 348,
+            "mpperlevel": 42,
+            "movespeed": 325,
+            "armor": 28,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.25,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.1,
+            "attackspeed": 0.64
+        }
+    },
+    "Ashe": {
+        "name": "Ashe",
+        "title": "the Frost Archer",
+        "info": {
+            "attack": 7,
+            "defense": 3,
+            "magic": 2,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Ashe.png"
+        },
+        "tags": [
+            "Marksman",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 87,
+            "mp": 280,
+            "mpperlevel": 32,
+            "movespeed": 325,
+            "armor": 26,
+            "armorperlevel": 3.4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 600,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6.97,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 2.96,
+            "attackspeedperlevel": 3.33,
+            "attackspeed": 0.658
+        }
+    },
+    "AurelionSol": {
+        "name": "Aurelion Sol",
+        "title": "The Star Forger",
+        "info": {
+            "attack": 2,
+            "defense": 3,
+            "magic": 8,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "AurelionSol.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 92,
+            "mp": 350,
+            "mpperlevel": 50,
+            "movespeed": 325,
+            "armor": 19,
+            "armorperlevel": 3.6,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 7,
+            "hpregenperlevel": 0.6,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "Azir": {
+        "name": "Azir",
+        "title": "the Emperor of the Sands",
+        "info": {
+            "attack": 6,
+            "defense": 3,
+            "magic": 8,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Azir.png"
+        },
+        "tags": [
+            "Mage",
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 552,
+            "hpperlevel": 92,
+            "mp": 480,
+            "mpperlevel": 21,
+            "movespeed": 335,
+            "armor": 19,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 7,
+            "hpregenperlevel": 0.75,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 2.8,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.625
+        }
+    },
+    "Bard": {
+        "name": "Bard",
+        "title": "the Wandering Caretaker",
+        "info": {
+            "attack": 4,
+            "defense": 4,
+            "magic": 5,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Bard.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 89,
+            "mp": 350,
+            "mpperlevel": 50,
+            "movespeed": 330,
+            "armor": 34,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "Blitzcrank": {
+        "name": "Blitzcrank",
+        "title": "the Great Steam Golem",
+        "info": {
+            "attack": 4,
+            "defense": 8,
+            "magic": 5,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Blitzcrank.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 583,
+            "hpperlevel": 95,
+            "mp": 267,
+            "mpperlevel": 40,
+            "movespeed": 325,
+            "armor": 40,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 8.5,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 1.13,
+            "attackspeed": 0.625
+        }
+    },
+    "Brand": {
+        "name": "Brand",
+        "title": "the Burning Vengeance",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 9,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Brand.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 520,
+            "hpperlevel": 88,
+            "mp": 469,
+            "mpperlevel": 21,
+            "movespeed": 340,
+            "armor": 22,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 10.67,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "Braum": {
+        "name": "Braum",
+        "title": "the Heart of the Freljord",
+        "info": {
+            "attack": 3,
+            "defense": 9,
+            "magic": 4,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Braum.png"
+        },
+        "tags": [
+            "Support",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 98,
+            "mp": 311,
+            "mpperlevel": 45,
+            "movespeed": 335,
+            "armor": 47,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 1,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.644
+        }
+    },
+    "Caitlyn": {
+        "name": "Caitlyn",
+        "title": "the Sheriff of Piltover",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 2,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Caitlyn.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 510,
+            "hpperlevel": 93,
+            "mp": 315,
+            "mpperlevel": 35,
+            "movespeed": 325,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 650,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.4,
+            "mpregenperlevel": 0.55,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.8,
+            "attackspeedperlevel": 4,
+            "attackspeed": 0.681
+        }
+    },
+    "Camille": {
+        "name": "Camille",
+        "title": "the Steel Shadow",
+        "info": {
+            "attack": 8,
+            "defense": 6,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Camille.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 576,
+            "hpperlevel": 85,
+            "mp": 339,
+            "mpperlevel": 52,
+            "movespeed": 340,
+            "armor": 35,
+            "armorperlevel": 3.8,
+            "spellblock": 32.1,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.8,
+            "mpregen": 8.15,
+            "mpregenperlevel": 0.75,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.644
+        }
+    },
+    "Cassiopeia": {
+        "name": "Cassiopeia",
+        "title": "the Serpent's Embrace",
+        "info": {
+            "attack": 2,
+            "defense": 3,
+            "magic": 9,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Cassiopeia.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 90,
+            "mp": 350,
+            "mpperlevel": 60,
+            "movespeed": 328,
+            "armor": 18,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.5,
+            "attackspeed": 0.647
+        }
+    },
+    "Chogath": {
+        "name": "Cho'Gath",
+        "title": "the Terror of the Void",
+        "info": {
+            "attack": 3,
+            "defense": 7,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Chogath.png"
+        },
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 574,
+            "hpperlevel": 80,
+            "mp": 270,
+            "mpperlevel": 60,
+            "movespeed": 345,
+            "armor": 38,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9,
+            "hpregenperlevel": 0.85,
+            "mpregen": 7.2,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 69,
+            "attackdamageperlevel": 4.2,
+            "attackspeedperlevel": 1.44,
+            "attackspeed": 0.625
+        }
+    },
+    "Corki": {
+        "name": "Corki",
+        "title": "the Daring Bombardier",
+        "info": {
+            "attack": 8,
+            "defense": 3,
+            "magic": 6,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Corki.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 518,
+            "hpperlevel": 87,
+            "mp": 350,
+            "mpperlevel": 54,
+            "movespeed": 325,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.42,
+            "mpregenperlevel": 0.55,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 2.5,
+            "attackspeedperlevel": 2.3,
+            "attackspeed": 0.638
+        }
+    },
+    "Darius": {
+        "name": "Darius",
+        "title": "the Hand of Noxus",
+        "info": {
+            "attack": 9,
+            "defense": 5,
+            "magic": 1,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "Darius.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 582,
+            "hpperlevel": 100,
+            "mp": 263,
+            "mpperlevel": 57.5,
+            "movespeed": 340,
+            "armor": 39,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 10,
+            "hpregenperlevel": 0.95,
+            "mpregen": 6.6,
+            "mpregenperlevel": 0.35,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.625
+        }
+    },
+    "Diana": {
+        "name": "Diana",
+        "title": "Scorn of the Moon",
+        "info": {
+            "attack": 7,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Diana.png"
+        },
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 95,
+            "mp": 375,
+            "mpperlevel": 25,
+            "movespeed": 345,
+            "armor": 31,
+            "armorperlevel": 3.1,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.85,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.25,
+            "attackspeed": 0.625
+        }
+    },
+    "Draven": {
+        "name": "Draven",
+        "title": "the Glorious Executioner",
+        "info": {
+            "attack": 9,
+            "defense": 3,
+            "magic": 1,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Draven.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 605,
+            "hpperlevel": 90,
+            "mp": 360.56,
+            "mpperlevel": 39,
+            "movespeed": 330,
+            "armor": 29,
+            "armorperlevel": 3.3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.7,
+            "mpregen": 8.04,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3.61,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.679
+        }
+    },
+    "DrMundo": {
+        "name": "Dr. Mundo",
+        "title": "the Madman of Zaun",
+        "info": {
+            "attack": 5,
+            "defense": 7,
+            "magic": 6,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "DrMundo.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 583,
+            "hpperlevel": 89,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 32,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 4.2,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.72
+        }
+    },
+    "Ekko": {
+        "name": "Ekko",
+        "title": "the Boy Who Shattered Time",
+        "info": {
+            "attack": 5,
+            "defense": 3,
+            "magic": 7,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Ekko.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 85,
+            "mp": 280,
+            "mpperlevel": 70,
+            "movespeed": 340,
+            "armor": 32,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9,
+            "hpregenperlevel": 0.9,
+            "mpregen": 7,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.688
+        }
+    },
+    "Elise": {
+        "name": "Elise",
+        "title": "the Spider Queen",
+        "info": {
+            "attack": 6,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Elise.png"
+        },
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 534,
+            "hpperlevel": 93,
+            "mp": 324,
+            "mpperlevel": 50,
+            "movespeed": 330,
+            "armor": 27,
+            "armorperlevel": 3.35,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.75,
+            "attackspeed": 0.625
+        }
+    },
+    "Evelynn": {
+        "name": "Evelynn",
+        "title": "Agony's Embrace",
+        "info": {
+            "attack": 4,
+            "defense": 2,
+            "magic": 7,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Evelynn.png"
+        },
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 572,
+            "hpperlevel": 84,
+            "mp": 315,
+            "mpperlevel": 42,
+            "movespeed": 335,
+            "armor": 37,
+            "armorperlevel": 3.5,
+            "spellblock": 32.1,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 8.11,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.1,
+            "attackspeed": 0.667
+        }
+    },
+    "Ezreal": {
+        "name": "Ezreal",
+        "title": "the Prodigal Explorer",
+        "info": {
+            "attack": 7,
+            "defense": 2,
+            "magic": 6,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Ezreal.png"
+        },
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 88,
+            "mp": 375,
+            "mpperlevel": 70,
+            "movespeed": 325,
+            "armor": 24,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 4,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8.5,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 2.5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Fiddlesticks": {
+        "name": "Fiddlesticks",
+        "title": "the Ancient Fear",
+        "info": {
+            "attack": 2,
+            "defense": 3,
+            "magic": 9,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Fiddlesticks.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580.4,
+            "hpperlevel": 92,
+            "mp": 500,
+            "mpperlevel": 28,
+            "movespeed": 335,
+            "armor": 34,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 480,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55.36,
+            "attackdamageperlevel": 2.63,
+            "attackspeedperlevel": 2.11,
+            "attackspeed": 0.625
+        }
+    },
+    "Fiora": {
+        "name": "Fiora",
+        "title": "the Grand Duelist",
+        "info": {
+            "attack": 10,
+            "defense": 4,
+            "magic": 2,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Fiora.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 85,
+            "mp": 300,
+            "mpperlevel": 60,
+            "movespeed": 345,
+            "armor": 33,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 3.2,
+            "attackspeed": 0.69
+        }
+    },
+    "Fizz": {
+        "name": "Fizz",
+        "title": "the Tidal Trickster",
+        "info": {
+            "attack": 6,
+            "defense": 4,
+            "magic": 7,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Fizz.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 98,
+            "mp": 317,
+            "mpperlevel": 37,
+            "movespeed": 335,
+            "armor": 22,
+            "armorperlevel": 3.4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.7,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.1,
+            "attackspeed": 0.658
+        }
+    },
+    "Galio": {
+        "name": "Galio",
+        "title": "the Colossus",
+        "info": {
+            "attack": 1,
+            "defense": 10,
+            "magic": 6,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Galio.png"
+        },
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 562,
+            "hpperlevel": 112,
+            "mp": 500,
+            "mpperlevel": 40,
+            "movespeed": 335,
+            "armor": 24,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 8,
+            "hpregenperlevel": 0.8,
+            "mpregen": 9.5,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 1.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Gangplank": {
+        "name": "Gangplank",
+        "title": "the Saltwater Scourge",
+        "info": {
+            "attack": 7,
+            "defense": 6,
+            "magic": 4,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Gangplank.png"
+        },
+        "tags": [
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 90,
+            "mp": 280,
+            "mpperlevel": 60,
+            "movespeed": 345,
+            "armor": 35,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 6,
+            "hpregenperlevel": 0.6,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 3.2,
+            "attackspeed": 0.658
+        }
+    },
+    "Garen": {
+        "name": "Garen",
+        "title": "The Might of Demacia",
+        "info": {
+            "attack": 7,
+            "defense": 7,
+            "magic": 1,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Garen.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 620,
+            "hpperlevel": 84,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 340,
+            "armor": 36,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 0.75,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.5,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 4.5,
+            "attackspeedperlevel": 3.65,
+            "attackspeed": 0.625
+        }
+    },
+    "Gnar": {
+        "name": "Gnar",
+        "title": "the Missing Link",
+        "info": {
+            "attack": 6,
+            "defense": 5,
+            "magic": 5,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Gnar.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Rage",
+        "stats": {
+            "hp": 510,
+            "hpperlevel": 65,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 335,
+            "armor": 32,
+            "armorperlevel": 2.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 175,
+            "hpregen": 4.5,
+            "hpregenperlevel": 1.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 6,
+            "attackspeed": 0.625
+        }
+    },
+    "Gragas": {
+        "name": "Gragas",
+        "title": "the Rabble Rouser",
+        "info": {
+            "attack": 4,
+            "defense": 7,
+            "magic": 6,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Gragas.png"
+        },
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 95,
+            "mp": 400,
+            "mpperlevel": 47,
+            "movespeed": 330,
+            "armor": 38,
+            "armorperlevel": 3.6,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2.05,
+            "attackspeed": 0.675
+        }
+    },
+    "Graves": {
+        "name": "Graves",
+        "title": "the Outlaw",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Graves.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 555,
+            "hpperlevel": 92,
+            "mp": 325,
+            "mpperlevel": 40,
+            "movespeed": 340,
+            "armor": 33,
+            "armorperlevel": 3.4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 425,
+            "hpregen": 8,
+            "hpregenperlevel": 0.7,
+            "mpregen": 8,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 2.6,
+            "attackspeed": 0.475
+        }
+    },
+    "Gwen": {
+        "name": "Gwen",
+        "title": "The Hallowed Seamstress",
+        "info": {
+            "attack": 7,
+            "defense": 4,
+            "magic": 5,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Gwen.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 90,
+            "mp": 330,
+            "mpperlevel": 40,
+            "movespeed": 340,
+            "armor": 39,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.25,
+            "attackspeed": 0.69
+        }
+    },
+    "Hecarim": {
+        "name": "Hecarim",
+        "title": "the Shadow of War",
+        "info": {
+            "attack": 8,
+            "defense": 6,
+            "magic": 4,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Hecarim.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 90,
+            "mp": 277,
+            "mpperlevel": 60,
+            "movespeed": 345,
+            "armor": 35,
+            "armorperlevel": 4.25,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 7,
+            "hpregenperlevel": 0.75,
+            "mpregen": 6.5,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.67
+        }
+    },
+    "Heimerdinger": {
+        "name": "Heimerdinger",
+        "title": "the Revered Inventor",
+        "info": {
+            "attack": 2,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Heimerdinger.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 488,
+            "hpperlevel": 87,
+            "mp": 385,
+            "mpperlevel": 20,
+            "movespeed": 340,
+            "armor": 19,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 56,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "Illaoi": {
+        "name": "Illaoi",
+        "title": "the Kraken Priestess",
+        "info": {
+            "attack": 8,
+            "defense": 6,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Illaoi.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 586,
+            "hpperlevel": 95,
+            "mp": 300,
+            "mpperlevel": 50,
+            "movespeed": 350,
+            "armor": 35,
+            "armorperlevel": 3.8,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9.5,
+            "hpregenperlevel": 0.8,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.75,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.571
+        }
+    },
+    "Irelia": {
+        "name": "Irelia",
+        "title": "the Blade Dancer",
+        "info": {
+            "attack": 7,
+            "defense": 4,
+            "magic": 5,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Irelia.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 520,
+            "hpperlevel": 110,
+            "mp": 350,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 36,
+            "armorperlevel": 3,
+            "spellblock": 28,
+            "spellblockperlevel": 1.25,
+            "attackrange": 200,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.85,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 65,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.656
+        }
+    },
+    "Ivern": {
+        "name": "Ivern",
+        "title": "the Green Father",
+        "info": {
+            "attack": 3,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Ivern.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 85,
+            "mp": 450,
+            "mpperlevel": 60,
+            "movespeed": 330,
+            "armor": 27,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 475,
+            "hpregen": 7,
+            "hpregenperlevel": 0.85,
+            "mpregen": 6,
+            "mpregenperlevel": 0.75,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 50,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.4,
+            "attackspeed": 0.644
+        }
+    },
+    "Janna": {
+        "name": "Janna",
+        "title": "the Storm's Fury",
+        "info": {
+            "attack": 3,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Janna.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 500,
+            "hpperlevel": 70,
+            "mp": 350,
+            "mpperlevel": 64,
+            "movespeed": 315,
+            "armor": 28,
+            "armorperlevel": 3.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 46,
+            "attackdamageperlevel": 1.5,
+            "attackspeedperlevel": 2.95,
+            "attackspeed": 0.625
+        }
+    },
+    "JarvanIV": {
+        "name": "Jarvan IV",
+        "title": "the Exemplar of Demacia",
+        "info": {
+            "attack": 6,
+            "defense": 8,
+            "magic": 3,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "JarvanIV.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 90,
+            "mp": 300,
+            "mpperlevel": 40,
+            "movespeed": 340,
+            "armor": 34,
+            "armorperlevel": 3.6,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.7,
+            "mpregen": 6.5,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.658
+        }
+    },
+    "Jax": {
+        "name": "Jax",
+        "title": "Grandmaster at Arms",
+        "info": {
+            "attack": 7,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Jax.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 593,
+            "hpperlevel": 85,
+            "mp": 339,
+            "mpperlevel": 52,
+            "movespeed": 350,
+            "armor": 36,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.58,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 4.25,
+            "attackspeedperlevel": 3.4,
+            "attackspeed": 0.638
+        }
+    },
+    "Jayce": {
+        "name": "Jayce",
+        "title": "the Defender of Tomorrow",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 3,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Jayce.png"
+        },
+        "tags": [
+            "Fighter",
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 90,
+            "mp": 375,
+            "mpperlevel": 45,
+            "movespeed": 335,
+            "armor": 27,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 125,
+            "hpregen": 6,
+            "hpregenperlevel": 0.6,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 54,
+            "attackdamageperlevel": 4.25,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.658
+        }
+    },
+    "Jhin": {
+        "name": "Jhin",
+        "title": "the Virtuoso",
+        "info": {
+            "attack": 10,
+            "defense": 2,
+            "magic": 6,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Jhin.png"
+        },
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 93,
+            "mp": 300,
+            "mpperlevel": 50,
+            "movespeed": 330,
+            "armor": 24,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 4.7,
+            "attackspeedperlevel": 0,
+            "attackspeed": 0.625
+        }
+    },
+    "Jinx": {
+        "name": "Jinx",
+        "title": "the Loose Cannon",
+        "info": {
+            "attack": 9,
+            "defense": 2,
+            "magic": 4,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Jinx.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 610,
+            "hpperlevel": 86,
+            "mp": 245,
+            "mpperlevel": 45,
+            "movespeed": 325,
+            "armor": 26,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.5,
+            "mpregen": 6.7,
+            "mpregenperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.625
+        }
+    },
+    "Kaisa": {
+        "name": "Kai'Sa",
+        "title": "Daughter of the Void",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Kaisa.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 88,
+            "mp": 344.88,
+            "mpperlevel": 38,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.2,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 2,
+            "attackspeedperlevel": 1.8,
+            "attackspeed": 0.644
+        }
+    },
+    "Kalista": {
+        "name": "Kalista",
+        "title": "the Spear of Vengeance",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 4,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Kalista.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 534,
+            "hpperlevel": 100,
+            "mp": 250,
+            "mpperlevel": 45,
+            "movespeed": 325,
+            "armor": 21,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6.3,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 69,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 4,
+            "attackspeed": 0.694
+        }
+    },
+    "Karma": {
+        "name": "Karma",
+        "title": "the Enlightened One",
+        "info": {
+            "attack": 1,
+            "defense": 7,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Karma.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 534,
+            "hpperlevel": 95,
+            "mp": 374,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 13,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 51,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 2.3,
+            "attackspeed": 0.625
+        }
+    },
+    "Karthus": {
+        "name": "Karthus",
+        "title": "the Deathsinger",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Karthus.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 87,
+            "mp": 467,
+            "mpperlevel": 30.5,
+            "movespeed": 335,
+            "armor": 18,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 450,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 46,
+            "attackdamageperlevel": 3.25,
+            "attackspeedperlevel": 2.11,
+            "attackspeed": 0.625
+        }
+    },
+    "Kassadin": {
+        "name": "Kassadin",
+        "title": "the Void Walker",
+        "info": {
+            "attack": 3,
+            "defense": 5,
+            "magic": 8,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Kassadin.png"
+        },
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 576,
+            "hpperlevel": 105,
+            "mp": 400,
+            "mpperlevel": 87,
+            "movespeed": 335,
+            "armor": 19,
+            "armorperlevel": 2.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 150,
+            "hpregen": 6,
+            "hpregenperlevel": 0.5,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 3.9,
+            "attackspeedperlevel": 3.7,
+            "attackspeed": 0.64
+        }
+    },
+    "Katarina": {
+        "name": "Katarina",
+        "title": "the Sinister Blade",
+        "info": {
+            "attack": 4,
+            "defense": 3,
+            "magic": 9,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Katarina.png"
+        },
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 602,
+            "hpperlevel": 94,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.7,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 2.74,
+            "attackspeed": 0.658
+        }
+    },
+    "Kayle": {
+        "name": "Kayle",
+        "title": "the Righteous",
+        "info": {
+            "attack": 6,
+            "defense": 6,
+            "magic": 7,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Kayle.png"
+        },
+        "tags": [
+            "Fighter",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 85,
+            "mp": 330,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 26,
+            "armorperlevel": 3,
+            "spellblock": 26,
+            "spellblockperlevel": 0.5,
+            "attackrange": 175,
+            "hpregen": 5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 50,
+            "attackdamageperlevel": 2.5,
+            "attackspeedperlevel": 1.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Kayn": {
+        "name": "Kayn",
+        "title": "the Shadow Reaper",
+        "info": {
+            "attack": 10,
+            "defense": 6,
+            "magic": 1,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Kayn.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 85,
+            "mp": 410,
+            "mpperlevel": 50,
+            "movespeed": 340,
+            "armor": 38,
+            "armorperlevel": 3.3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.75,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.95,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.669
+        }
+    },
+    "Kennen": {
+        "name": "Kennen",
+        "title": "the Heart of the Tempest",
+        "info": {
+            "attack": 6,
+            "defense": 4,
+            "magic": 7,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Kennen.png"
+        },
+        "tags": [
+            "Mage",
+            "Marksman"
+        ],
+        "partype": "Energy",
+        "stats": {
+            "hp": 541,
+            "hpperlevel": 84,
+            "mp": 200,
+            "mpperlevel": 0,
+            "movespeed": 335,
+            "armor": 29,
+            "armorperlevel": 3.75,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.65,
+            "mpregen": 50,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 48,
+            "attackdamageperlevel": 3.75,
+            "attackspeedperlevel": 3.4,
+            "attackspeed": 0.625
+        }
+    },
+    "Khazix": {
+        "name": "Kha'Zix",
+        "title": "the Voidreaver",
+        "info": {
+            "attack": 9,
+            "defense": 4,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Khazix.png"
+        },
+        "tags": [
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 573,
+            "hpperlevel": 85,
+            "mp": 327,
+            "mpperlevel": 40,
+            "movespeed": 350,
+            "armor": 36,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.59,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.668
+        }
+    },
+    "Kindred": {
+        "name": "Kindred",
+        "title": "The Eternal Hunters",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 2,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Kindred.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 85,
+            "mp": 300,
+            "mpperlevel": 35,
+            "movespeed": 325,
+            "armor": 29,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 65,
+            "attackdamageperlevel": 2.5,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Kled": {
+        "name": "Kled",
+        "title": "the Cantankerous Cavalier",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 2,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Kled.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Courage",
+        "stats": {
+            "hp": 340,
+            "hpperlevel": 70,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 35,
+            "armorperlevel": 4,
+            "spellblock": 28,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 6,
+            "hpregenperlevel": 0.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 65,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "KogMaw": {
+        "name": "Kog'Maw",
+        "title": "the Mouth of the Abyss",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 5,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "KogMaw.png"
+        },
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 565,
+            "hpperlevel": 85,
+            "mp": 325,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 24,
+            "armorperlevel": 3.25,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.75,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3.11,
+            "attackspeedperlevel": 2.65,
+            "attackspeed": 0.665
+        }
+    },
+    "Leblanc": {
+        "name": "LeBlanc",
+        "title": "the Deceiver",
+        "info": {
+            "attack": 1,
+            "defense": 4,
+            "magic": 10,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Leblanc.png"
+        },
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 528,
+            "hpperlevel": 97,
+            "mp": 334,
+            "mpperlevel": 50,
+            "movespeed": 340,
+            "armor": 22,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 1.4,
+            "attackspeed": 0.625
+        }
+    },
+    "LeeSin": {
+        "name": "Lee Sin",
+        "title": "the Blind Monk",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "LeeSin.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Energy",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 85,
+            "mp": 200,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 36,
+            "armorperlevel": 3.7,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.7,
+            "mpregen": 50,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.7,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.651
+        }
+    },
+    "Leona": {
+        "name": "Leona",
+        "title": "the Radiant Dawn",
+        "info": {
+            "attack": 4,
+            "defense": 8,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Leona.png"
+        },
+        "tags": [
+            "Tank",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 576,
+            "hpperlevel": 87,
+            "mp": 302,
+            "mpperlevel": 40,
+            "movespeed": 335,
+            "armor": 47,
+            "armorperlevel": 3.6,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.85,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.9,
+            "attackspeed": 0.625
+        }
+    },
+    "Lillia": {
+        "name": "Lillia",
+        "title": "the Bashful Bloom",
+        "info": {
+            "attack": 0,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Lillia.png"
+        },
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 90,
+            "mp": 410,
+            "mpperlevel": 50,
+            "movespeed": 330,
+            "armor": 22,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 0.75,
+            "attackrange": 325,
+            "hpregen": 2.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.95,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.625
+        }
+    },
+    "Lissandra": {
+        "name": "Lissandra",
+        "title": "the Ice Witch",
+        "info": {
+            "attack": 2,
+            "defense": 5,
+            "magic": 8,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Lissandra.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 90,
+            "mp": 475,
+            "mpperlevel": 30,
+            "movespeed": 325,
+            "armor": 22,
+            "armorperlevel": 3.7,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.656
+        }
+    },
+    "Lucian": {
+        "name": "Lucian",
+        "title": "the Purifier",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Lucian.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 571,
+            "hpperlevel": 86,
+            "mp": 348.88,
+            "mpperlevel": 38,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8.18,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 2.3,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.638
+        }
+    },
+    "Lulu": {
+        "name": "Lulu",
+        "title": "the Fae Sorceress",
+        "info": {
+            "attack": 4,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Lulu.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 525,
+            "hpperlevel": 74,
+            "mp": 350,
+            "mpperlevel": 55,
+            "movespeed": 330,
+            "armor": 29,
+            "armorperlevel": 3.7,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6,
+            "hpregenperlevel": 0.6,
+            "mpregen": 11,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 47,
+            "attackdamageperlevel": 2.6,
+            "attackspeedperlevel": 2.25,
+            "attackspeed": 0.625
+        }
+    },
+    "Lux": {
+        "name": "Lux",
+        "title": "the Lady of Luminosity",
+        "info": {
+            "attack": 2,
+            "defense": 4,
+            "magic": 9,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Lux.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 490,
+            "hpperlevel": 85,
+            "mp": 480,
+            "mpperlevel": 23.5,
+            "movespeed": 330,
+            "armor": 19,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 54,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.669
+        }
+    },
+    "Malphite": {
+        "name": "Malphite",
+        "title": "Shard of the Monolith",
+        "info": {
+            "attack": 5,
+            "defense": 9,
+            "magic": 7,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "Malphite.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 574,
+            "hpperlevel": 90,
+            "mp": 280,
+            "mpperlevel": 60,
+            "movespeed": 335,
+            "armor": 37,
+            "armorperlevel": 3.75,
+            "spellblock": 28,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.32,
+            "mpregenperlevel": 0.55,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 3.4,
+            "attackspeed": 0.736
+        }
+    },
+    "Malzahar": {
+        "name": "Malzahar",
+        "title": "the Prophet of the Void",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 9,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Malzahar.png"
+        },
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 510,
+            "hpperlevel": 87,
+            "mp": 375,
+            "mpperlevel": 27.5,
+            "movespeed": 335,
+            "armor": 18,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 6,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Maokai": {
+        "name": "Maokai",
+        "title": "the Twisted Treant",
+        "info": {
+            "attack": 3,
+            "defense": 8,
+            "magic": 6,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Maokai.png"
+        },
+        "tags": [
+            "Tank",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 565,
+            "hpperlevel": 95,
+            "mp": 375,
+            "mpperlevel": 43,
+            "movespeed": 335,
+            "armor": 39,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.2,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 2.125,
+            "attackspeed": 0.8
+        }
+    },
+    "MasterYi": {
+        "name": "Master Yi",
+        "title": "the Wuju Bladesman",
+        "info": {
+            "attack": 10,
+            "defense": 4,
+            "magic": 2,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "MasterYi.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 599,
+            "hpperlevel": 92,
+            "mp": 251,
+            "mpperlevel": 42,
+            "movespeed": 355,
+            "armor": 33,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.65,
+            "mpregen": 7.26,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.679
+        }
+    },
+    "MissFortune": {
+        "name": "Miss Fortune",
+        "title": "the Bounty Hunter",
+        "info": {
+            "attack": 8,
+            "defense": 2,
+            "magic": 5,
+            "difficulty": 1
+        },
+        "image": {
+            "full": "MissFortune.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 93,
+            "mp": 325.84,
+            "mpperlevel": 35,
+            "movespeed": 325,
+            "armor": 28,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8.04,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.656
+        }
+    },
+    "MonkeyKing": {
+        "name": "Wukong",
+        "title": "the Monkey King",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 2,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "MonkeyKing.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 85,
+            "mp": 300,
+            "mpperlevel": 65,
+            "movespeed": 345,
+            "armor": 31,
+            "armorperlevel": 3.5,
+            "spellblock": 28,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 2.5,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.711
+        }
+    },
+    "Mordekaiser": {
+        "name": "Mordekaiser",
+        "title": "the Iron Revenant",
+        "info": {
+            "attack": 4,
+            "defense": 6,
+            "magic": 7,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Mordekaiser.png"
+        },
+        "tags": [
+            "Fighter"
+        ],
+        "partype": "Shield",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 90,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 335,
+            "armor": 37,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.625
+        }
+    },
+    "Morgana": {
+        "name": "Morgana",
+        "title": "the Fallen",
+        "info": {
+            "attack": 1,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 1
+        },
+        "image": {
+            "full": "Morgana.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 90,
+            "mp": 340,
+            "mpperlevel": 60,
+            "movespeed": 335,
+            "armor": 25,
+            "armorperlevel": 3.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 450,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.4,
+            "mpregen": 11,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 56,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 1.53,
+            "attackspeed": 0.625
+        }
+    },
+    "Nami": {
+        "name": "Nami",
+        "title": "the Tidecaller",
+        "info": {
+            "attack": 4,
+            "defense": 3,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Nami.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 490,
+            "hpperlevel": 74,
+            "mp": 365,
+            "mpperlevel": 43,
+            "movespeed": 335,
+            "armor": 29,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 51,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.61,
+            "attackspeed": 0.644
+        }
+    },
+    "Nasus": {
+        "name": "Nasus",
+        "title": "the Curator of the Sands",
+        "info": {
+            "attack": 7,
+            "defense": 5,
+            "magic": 6,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Nasus.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 561,
+            "hpperlevel": 90,
+            "mp": 326,
+            "mpperlevel": 62,
+            "movespeed": 350,
+            "armor": 34,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9,
+            "hpregenperlevel": 0.9,
+            "mpregen": 7.44,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 67,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3.48,
+            "attackspeed": 0.638
+        }
+    },
+    "Nautilus": {
+        "name": "Nautilus",
+        "title": "the Titan of the Depths",
+        "info": {
+            "attack": 4,
+            "defense": 6,
+            "magic": 6,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Nautilus.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 576,
+            "hpperlevel": 86,
+            "mp": 400,
+            "mpperlevel": 47,
+            "movespeed": 325,
+            "armor": 39,
+            "armorperlevel": 3.75,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.63,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.706
+        }
+    },
+    "Neeko": {
+        "name": "Neeko",
+        "title": "the Curious Chameleon",
+        "info": {
+            "attack": 1,
+            "defense": 1,
+            "magic": 9,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Neeko.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 90,
+            "mp": 450,
+            "mpperlevel": 30,
+            "movespeed": 340,
+            "armor": 21,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 48,
+            "attackdamageperlevel": 2.5,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Nidalee": {
+        "name": "Nidalee",
+        "title": "the Bestial Huntress",
+        "info": {
+            "attack": 5,
+            "defense": 4,
+            "magic": 7,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Nidalee.png"
+        },
+        "tags": [
+            "Assassin",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 95,
+            "mp": 295,
+            "mpperlevel": 45,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 6,
+            "hpregenperlevel": 0.6,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3.22,
+            "attackspeed": 0.638
+        }
+    },
+    "Nocturne": {
+        "name": "Nocturne",
+        "title": "the Eternal Nightmare",
+        "info": {
+            "attack": 9,
+            "defense": 5,
+            "magic": 2,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Nocturne.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 85,
+            "mp": 275,
+            "mpperlevel": 35,
+            "movespeed": 345,
+            "armor": 38,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 0.75,
+            "attackrange": 125,
+            "hpregen": 7,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.721
+        }
+    },
+    "Nunu": {
+        "name": "Nunu & Willump",
+        "title": "the Boy and His Yeti",
+        "info": {
+            "attack": 4,
+            "defense": 6,
+            "magic": 7,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Nunu.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 82,
+            "mp": 280,
+            "mpperlevel": 42,
+            "movespeed": 345,
+            "armor": 29,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 5,
+            "hpregenperlevel": 0.8,
+            "mpregen": 7,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.25,
+            "attackspeed": 0.625
+        }
+    },
+    "Olaf": {
+        "name": "Olaf",
+        "title": "the Berserker",
+        "info": {
+            "attack": 9,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Olaf.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 100,
+            "mp": 316,
+            "mpperlevel": 42,
+            "movespeed": 350,
+            "armor": 35,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.9,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2.7,
+            "attackspeed": 0.694
+        }
+    },
+    "Orianna": {
+        "name": "Orianna",
+        "title": "the Lady of Clockwork",
+        "info": {
+            "attack": 4,
+            "defense": 3,
+            "magic": 9,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Orianna.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 91,
+            "mp": 418,
+            "mpperlevel": 25,
+            "movespeed": 325,
+            "armor": 17,
+            "armorperlevel": 3,
+            "spellblock": 26,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 40,
+            "attackdamageperlevel": 2.6,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.658
+        }
+    },
+    "Ornn": {
+        "name": "Ornn",
+        "title": "The Fire below the Mountain",
+        "info": {
+            "attack": 5,
+            "defense": 9,
+            "magic": 3,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Ornn.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 590,
+            "hpperlevel": 95,
+            "mp": 340.6,
+            "mpperlevel": 65,
+            "movespeed": 335,
+            "armor": 33,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 9,
+            "hpregenperlevel": 0.9,
+            "mpregen": 8.01,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 69,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "Pantheon": {
+        "name": "Pantheon",
+        "title": "the Unbreakable Spear",
+        "info": {
+            "attack": 9,
+            "defense": 4,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Pantheon.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 95,
+            "mp": 317.12,
+            "mpperlevel": 31,
+            "movespeed": 345,
+            "armor": 40,
+            "armorperlevel": 3.75,
+            "spellblock": 28,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 9,
+            "hpregenperlevel": 0.65,
+            "mpregen": 7.36,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 2.95,
+            "attackspeed": 0.644
+        }
+    },
+    "Poppy": {
+        "name": "Poppy",
+        "title": "Keeper of the Hammer",
+        "info": {
+            "attack": 6,
+            "defense": 7,
+            "magic": 2,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Poppy.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 90,
+            "mp": 280,
+            "mpperlevel": 40,
+            "movespeed": 345,
+            "armor": 38,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.8,
+            "mpregen": 7,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Pyke": {
+        "name": "Pyke",
+        "title": "the Bloodharbor Ripper",
+        "info": {
+            "attack": 9,
+            "defense": 3,
+            "magic": 1,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Pyke.png"
+        },
+        "tags": [
+            "Support",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 90,
+            "mp": 415,
+            "mpperlevel": 50,
+            "movespeed": 330,
+            "armor": 45,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 7,
+            "hpregenperlevel": 0.5,
+            "mpregen": 8,
+            "mpregenperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 2,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.667
+        }
+    },
+    "Qiyana": {
+        "name": "Qiyana",
+        "title": "Empress of the Elements",
+        "info": {
+            "attack": 0,
+            "defense": 2,
+            "magic": 4,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Qiyana.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 590,
+            "hpperlevel": 90,
+            "mp": 320,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.9,
+            "mpregen": 8,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.1,
+            "attackspeed": 0.688
+        }
+    },
+    "Quinn": {
+        "name": "Quinn",
+        "title": "Demacia's Wings",
+        "info": {
+            "attack": 9,
+            "defense": 4,
+            "magic": 2,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Quinn.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 533,
+            "hpperlevel": 85,
+            "mp": 269,
+            "mpperlevel": 35,
+            "movespeed": 335,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6.97,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 2.4,
+            "attackspeedperlevel": 3.1,
+            "attackspeed": 0.668
+        }
+    },
+    "Rakan": {
+        "name": "Rakan",
+        "title": "The Charmer",
+        "info": {
+            "attack": 2,
+            "defense": 4,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Rakan.png"
+        },
+        "tags": [
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 85,
+            "mp": 315,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 32,
+            "armorperlevel": 3.9,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 300,
+            "hpregen": 5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 8.75,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.635
+        }
+    },
+    "Rammus": {
+        "name": "Rammus",
+        "title": "the Armordillo",
+        "info": {
+            "attack": 4,
+            "defense": 10,
+            "magic": 5,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Rammus.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 564,
+            "hpperlevel": 80,
+            "mp": 310,
+            "mpperlevel": 33,
+            "movespeed": 335,
+            "armor": 36,
+            "armorperlevel": 4.3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.84,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 56,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2.215,
+            "attackspeed": 0.656
+        }
+    },
+    "RekSai": {
+        "name": "Rek'Sai",
+        "title": "the Void Burrower",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 2,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "RekSai.png"
+        },
+        "tags": [
+            "Fighter"
+        ],
+        "partype": "Rage",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 85,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 335,
+            "armor": 36,
+            "armorperlevel": 3.75,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.65,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.667
+        }
+    },
+    "Rell": {
+        "name": "Rell",
+        "title": "the Iron Maiden",
+        "info": {
+            "attack": 0,
+            "defense": 0,
+            "magic": 0,
+            "difficulty": 0
+        },
+        "image": {
+            "full": "Rell.png"
+        },
+        "tags": [
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 90,
+            "mp": 350,
+            "mpperlevel": 45,
+            "movespeed": 335,
+            "armor": 32,
+            "armorperlevel": 3,
+            "spellblock": 32.1,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6,
+            "mpregenperlevel": 0.35,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.55
+        }
+    },
+    "Renekton": {
+        "name": "Renekton",
+        "title": "the Butcher of the Sands",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 2,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Renekton.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Fury",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 87,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 35,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 69,
+            "attackdamageperlevel": 3.75,
+            "attackspeedperlevel": 2.75,
+            "attackspeed": 0.665
+        }
+    },
+    "Rengar": {
+        "name": "Rengar",
+        "title": "the Pridestalker",
+        "info": {
+            "attack": 7,
+            "defense": 4,
+            "magic": 2,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Rengar.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Ferocity",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 90,
+            "mp": 4,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 34,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7,
+            "hpregenperlevel": 0.5,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.667
+        }
+    },
+    "Riven": {
+        "name": "Riven",
+        "title": "the Exile",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 1,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Riven.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 86,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 340,
+            "armor": 33,
+            "armorperlevel": 3.2,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Rumble": {
+        "name": "Rumble",
+        "title": "the Mechanized Menace",
+        "info": {
+            "attack": 3,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Rumble.png"
+        },
+        "tags": [
+            "Fighter",
+            "Mage"
+        ],
+        "partype": "Heat",
+        "stats": {
+            "hp": 589,
+            "hpperlevel": 85,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 31,
+            "armorperlevel": 3.5,
+            "spellblock": 28,
+            "spellblockperlevel": 0.75,
+            "attackrange": 125,
+            "hpregen": 8,
+            "hpregenperlevel": 0.6,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 1.85,
+            "attackspeed": 0.644
+        }
+    },
+    "Ryze": {
+        "name": "Ryze",
+        "title": "the Rune Mage",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Ryze.png"
+        },
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 110,
+            "mp": 300,
+            "mpperlevel": 70,
+            "movespeed": 340,
+            "armor": 22,
+            "armorperlevel": 3,
+            "spellblock": 36,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 8,
+            "hpregenperlevel": 0.8,
+            "mpregen": 8,
+            "mpregenperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.112,
+            "attackspeed": 0.625
+        }
+    },
+    "Samira": {
+        "name": "Samira",
+        "title": "the Desert Rose",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Samira.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 88,
+            "mp": 348.88,
+            "mpperlevel": 38,
+            "movespeed": 335,
+            "armor": 26,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.25,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8.18,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.658
+        }
+    },
+    "Sejuani": {
+        "name": "Sejuani",
+        "title": "Fury of the North",
+        "info": {
+            "attack": 5,
+            "defense": 7,
+            "magic": 6,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Sejuani.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 100,
+            "mp": 400,
+            "mpperlevel": 40,
+            "movespeed": 340,
+            "armor": 34,
+            "armorperlevel": 4.25,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 8.5,
+            "hpregenperlevel": 1,
+            "mpregen": 7,
+            "mpregenperlevel": 0.7,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.688
+        }
+    },
+    "Senna": {
+        "name": "Senna",
+        "title": "the Redeemer",
+        "info": {
+            "attack": 7,
+            "defense": 2,
+            "magic": 6,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Senna.png"
+        },
+        "tags": [
+            "Marksman",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 520,
+            "hpperlevel": 75,
+            "mp": 350,
+            "mpperlevel": 45,
+            "movespeed": 330,
+            "armor": 28,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 600,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 50,
+            "attackdamageperlevel": 0,
+            "attackspeedperlevel": 4,
+            "attackspeed": 0.625
+        }
+    },
+    "Seraphine": {
+        "name": "Seraphine",
+        "title": "the Starry-Eyed Songstress",
+        "info": {
+            "attack": 0,
+            "defense": 0,
+            "magic": 0,
+            "difficulty": 0
+        },
+        "image": {
+            "full": "Seraphine.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 500,
+            "hpperlevel": 90,
+            "mp": 440,
+            "mpperlevel": 40,
+            "movespeed": 325,
+            "armor": 19,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.669
+        }
+    },
+    "Sett": {
+        "name": "Sett",
+        "title": "the Boss",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 1,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "Sett.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Grit",
+        "stats": {
+            "hp": 600,
+            "hpperlevel": 93,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 340,
+            "armor": 33,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7,
+            "hpregenperlevel": 0.5,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 1.75,
+            "attackspeed": 0.625
+        }
+    },
+    "Shaco": {
+        "name": "Shaco",
+        "title": "the Demon Jester",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 6,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Shaco.png"
+        },
+        "tags": [
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 89,
+            "mp": 297,
+            "mpperlevel": 40,
+            "movespeed": 345,
+            "armor": 30,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.16,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.694
+        }
+    },
+    "Shen": {
+        "name": "Shen",
+        "title": "the Eye of Twilight",
+        "info": {
+            "attack": 3,
+            "defense": 9,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Shen.png"
+        },
+        "tags": [
+            "Tank"
+        ],
+        "partype": "Energy",
+        "stats": {
+            "hp": 540,
+            "hpperlevel": 85,
+            "mp": 400,
+            "mpperlevel": 0,
+            "movespeed": 340,
+            "armor": 34,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 50,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3,
+            "attackspeed": 0.751
+        }
+    },
+    "Shyvana": {
+        "name": "Shyvana",
+        "title": "the Half-Dragon",
+        "info": {
+            "attack": 8,
+            "defense": 6,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Shyvana.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Fury",
+        "stats": {
+            "hp": 595,
+            "hpperlevel": 95,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 350,
+            "armor": 38,
+            "armorperlevel": 3.35,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.8,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 66,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.658
+        }
+    },
+    "Singed": {
+        "name": "Singed",
+        "title": "the Mad Chemist",
+        "info": {
+            "attack": 4,
+            "defense": 8,
+            "magic": 7,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Singed.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 85,
+            "mp": 330,
+            "mpperlevel": 45,
+            "movespeed": 345,
+            "armor": 34,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.55,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3.38,
+            "attackspeedperlevel": 1.9,
+            "attackspeed": 0.613
+        }
+    },
+    "Sion": {
+        "name": "Sion",
+        "title": "The Undead Juggernaut",
+        "info": {
+            "attack": 5,
+            "defense": 9,
+            "magic": 3,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Sion.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 545,
+            "hpperlevel": 73,
+            "mp": 330,
+            "mpperlevel": 42,
+            "movespeed": 345,
+            "armor": 32,
+            "armorperlevel": 3,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.8,
+            "mpregen": 8,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 1.3,
+            "attackspeed": 0.679
+        }
+    },
+    "Sivir": {
+        "name": "Sivir",
+        "title": "the Battle Mistress",
+        "info": {
+            "attack": 9,
+            "defense": 3,
+            "magic": 1,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Sivir.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 562,
+            "hpperlevel": 90,
+            "mp": 325,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 26,
+            "armorperlevel": 3.25,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 3.25,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.9,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.6,
+            "attackspeed": 0.625
+        }
+    },
+    "Skarner": {
+        "name": "Skarner",
+        "title": "the Crystal Vanguard",
+        "info": {
+            "attack": 7,
+            "defense": 6,
+            "magic": 5,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Skarner.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 85,
+            "mp": 320,
+            "mpperlevel": 60,
+            "movespeed": 335,
+            "armor": 38,
+            "armorperlevel": 3.8,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 9,
+            "hpregenperlevel": 0.85,
+            "mpregen": 7.2,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 65,
+            "attackdamageperlevel": 4.5,
+            "attackspeedperlevel": 2.1,
+            "attackspeed": 0.625
+        }
+    },
+    "Sona": {
+        "name": "Sona",
+        "title": "Maven of the Strings",
+        "info": {
+            "attack": 5,
+            "defense": 2,
+            "magic": 8,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Sona.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 480,
+            "hpperlevel": 77,
+            "mp": 340,
+            "mpperlevel": 45,
+            "movespeed": 325,
+            "armor": 28,
+            "armorperlevel": 3.3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 49,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.3,
+            "attackspeed": 0.644
+        }
+    },
+    "Soraka": {
+        "name": "Soraka",
+        "title": "the Starchild",
+        "info": {
+            "attack": 2,
+            "defense": 5,
+            "magic": 7,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Soraka.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 535,
+            "hpperlevel": 74,
+            "mp": 425,
+            "mpperlevel": 40,
+            "movespeed": 325,
+            "armor": 32,
+            "armorperlevel": 3.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 2.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 11.5,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 50,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.14,
+            "attackspeed": 0.625
+        }
+    },
+    "Swain": {
+        "name": "Swain",
+        "title": "the Noxian Grand General",
+        "info": {
+            "attack": 2,
+            "defense": 6,
+            "magic": 9,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Swain.png"
+        },
+        "tags": [
+            "Mage",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 525,
+            "hpperlevel": 85,
+            "mp": 468,
+            "mpperlevel": 28.5,
+            "movespeed": 325,
+            "armor": 23,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 7,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 2.11,
+            "attackspeed": 0.625
+        }
+    },
+    "Sylas": {
+        "name": "Sylas",
+        "title": "the Unshackled",
+        "info": {
+            "attack": 3,
+            "defense": 4,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Sylas.png"
+        },
+        "tags": [
+            "Mage",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 525,
+            "hpperlevel": 115,
+            "mp": 280,
+            "mpperlevel": 70,
+            "movespeed": 340,
+            "armor": 27,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.75,
+            "attackrange": 175,
+            "hpregen": 9,
+            "hpregenperlevel": 0.9,
+            "mpregen": 7,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 61,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.645
+        }
+    },
+    "Syndra": {
+        "name": "Syndra",
+        "title": "the Dark Sovereign",
+        "info": {
+            "attack": 2,
+            "defense": 3,
+            "magic": 9,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Syndra.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 523,
+            "hpperlevel": 90,
+            "mp": 480,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 25,
+            "armorperlevel": 3.4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 54,
+            "attackdamageperlevel": 2.9,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "TahmKench": {
+        "name": "Tahm Kench",
+        "title": "The River King",
+        "info": {
+            "attack": 3,
+            "defense": 9,
+            "magic": 6,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "TahmKench.png"
+        },
+        "tags": [
+            "Support",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 95,
+            "mp": 325,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 42,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 1,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 56,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.658
+        }
+    },
+    "Taliyah": {
+        "name": "Taliyah",
+        "title": "the Stoneweaver",
+        "info": {
+            "attack": 1,
+            "defense": 7,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Taliyah.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 532,
+            "hpperlevel": 90,
+            "mp": 425,
+            "mpperlevel": 30,
+            "movespeed": 335,
+            "armor": 20,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 7,
+            "hpregenperlevel": 0.7,
+            "mpregen": 9.34,
+            "mpregenperlevel": 0.85,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "Talon": {
+        "name": "Talon",
+        "title": "the Blade's Shadow",
+        "info": {
+            "attack": 9,
+            "defense": 3,
+            "magic": 1,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Talon.png"
+        },
+        "tags": [
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 588,
+            "hpperlevel": 95,
+            "mp": 377.2,
+            "mpperlevel": 37,
+            "movespeed": 335,
+            "armor": 30,
+            "armorperlevel": 3.5,
+            "spellblock": 39,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2.9,
+            "attackspeed": 0.625
+        }
+    },
+    "Taric": {
+        "name": "Taric",
+        "title": "the Shield of Valoran",
+        "info": {
+            "attack": 4,
+            "defense": 8,
+            "magic": 5,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Taric.png"
+        },
+        "tags": [
+            "Support",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 575,
+            "hpperlevel": 85,
+            "mp": 300,
+            "mpperlevel": 60,
+            "movespeed": 340,
+            "armor": 40,
+            "armorperlevel": 3.4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 6,
+            "hpregenperlevel": 0.5,
+            "mpregen": 8.5,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "Teemo": {
+        "name": "Teemo",
+        "title": "the Swift Scout",
+        "info": {
+            "attack": 5,
+            "defense": 3,
+            "magic": 7,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Teemo.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 528,
+            "hpperlevel": 90,
+            "mp": 334,
+            "mpperlevel": 20,
+            "movespeed": 330,
+            "armor": 24,
+            "armorperlevel": 3.75,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 500,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.65,
+            "mpregen": 9.6,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 54,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.38,
+            "attackspeed": 0.69
+        }
+    },
+    "Thresh": {
+        "name": "Thresh",
+        "title": "the Chain Warden",
+        "info": {
+            "attack": 5,
+            "defense": 6,
+            "magic": 6,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Thresh.png"
+        },
+        "tags": [
+            "Support",
+            "Fighter"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 95,
+            "mp": 274,
+            "mpperlevel": 44,
+            "movespeed": 330,
+            "armor": 28,
+            "armorperlevel": 0,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 450,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 56,
+            "attackdamageperlevel": 2.2,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Tristana": {
+        "name": "Tristana",
+        "title": "the Yordle Gunner",
+        "info": {
+            "attack": 9,
+            "defense": 3,
+            "magic": 5,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Tristana.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 559,
+            "hpperlevel": 88,
+            "mp": 250,
+            "mpperlevel": 32,
+            "movespeed": 325,
+            "armor": 26,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.65,
+            "mpregen": 7.2,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 1.5,
+            "attackspeed": 0.656
+        }
+    },
+    "Trundle": {
+        "name": "Trundle",
+        "title": "the Troll King",
+        "info": {
+            "attack": 7,
+            "defense": 6,
+            "magic": 2,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Trundle.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 616,
+            "hpperlevel": 96,
+            "mp": 281,
+            "mpperlevel": 45,
+            "movespeed": 350,
+            "armor": 37,
+            "armorperlevel": 2.7,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 6,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.6,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 68,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.9,
+            "attackspeed": 0.67
+        }
+    },
+    "Tryndamere": {
+        "name": "Tryndamere",
+        "title": "the Barbarian King",
+        "info": {
+            "attack": 10,
+            "defense": 5,
+            "magic": 2,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Tryndamere.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Fury",
+        "stats": {
+            "hp": 626,
+            "hpperlevel": 98,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 33,
+            "armorperlevel": 3.1,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 8.5,
+            "hpregenperlevel": 0.9,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 72,
+            "attackdamageperlevel": 3.7,
+            "attackspeedperlevel": 2.9,
+            "attackspeed": 0.67
+        }
+    },
+    "TwistedFate": {
+        "name": "Twisted Fate",
+        "title": "the Card Master",
+        "info": {
+            "attack": 6,
+            "defense": 2,
+            "magic": 6,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "TwistedFate.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 534,
+            "hpperlevel": 94,
+            "mp": 333,
+            "mpperlevel": 39,
+            "movespeed": 330,
+            "armor": 21,
+            "armorperlevel": 3.15,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 3.22,
+            "attackspeed": 0.651
+        }
+    },
+    "Twitch": {
+        "name": "Twitch",
+        "title": "the Plague Rat",
+        "info": {
+            "attack": 9,
+            "defense": 2,
+            "magic": 3,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Twitch.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 612,
+            "hpperlevel": 86,
+            "mp": 287.2,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 27,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.75,
+            "hpregenperlevel": 0.6,
+            "mpregen": 7.26,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 3.11,
+            "attackspeedperlevel": 3.38,
+            "attackspeed": 0.679
+        }
+    },
+    "Udyr": {
+        "name": "Udyr",
+        "title": "the Spirit Walker",
+        "info": {
+            "attack": 8,
+            "defense": 7,
+            "magic": 4,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Udyr.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 594,
+            "hpperlevel": 92,
+            "mp": 271,
+            "mpperlevel": 50,
+            "movespeed": 350,
+            "armor": 34,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 6,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 64,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 2.67,
+            "attackspeed": 0.658
+        }
+    },
+    "Urgot": {
+        "name": "Urgot",
+        "title": "the Dreadnought",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Urgot.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 88,
+            "mp": 340,
+            "mpperlevel": 45,
+            "movespeed": 330,
+            "armor": 36,
+            "armorperlevel": 4.25,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 350,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.7,
+            "mpregen": 7.25,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 4,
+            "attackspeedperlevel": 3.75,
+            "attackspeed": 0.625
+        }
+    },
+    "Varus": {
+        "name": "Varus",
+        "title": "the Arrow of Retribution",
+        "info": {
+            "attack": 7,
+            "defense": 3,
+            "magic": 4,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "Varus.png"
+        },
+        "tags": [
+            "Marksman",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 91,
+            "mp": 360,
+            "mpperlevel": 40,
+            "movespeed": 330,
+            "armor": 27,
+            "armorperlevel": 3.4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 575,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 59,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 4,
+            "attackspeed": 0.658
+        }
+    },
+    "Vayne": {
+        "name": "Vayne",
+        "title": "the Night Hunter",
+        "info": {
+            "attack": 10,
+            "defense": 1,
+            "magic": 1,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Vayne.png"
+        },
+        "tags": [
+            "Marksman",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 515,
+            "hpperlevel": 89,
+            "mp": 231.8,
+            "mpperlevel": 35,
+            "movespeed": 330,
+            "armor": 23,
+            "armorperlevel": 3.4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 3.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 6.97,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 2.36,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.658
+        }
+    },
+    "Veigar": {
+        "name": "Veigar",
+        "title": "the Tiny Master of Evil",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Veigar.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 505,
+            "hpperlevel": 94,
+            "mp": 490,
+            "mpperlevel": 26,
+            "movespeed": 340,
+            "armor": 23,
+            "armorperlevel": 3.75,
+            "spellblock": 32,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 2.7,
+            "attackspeedperlevel": 2.24,
+            "attackspeed": 0.625
+        }
+    },
+    "Velkoz": {
+        "name": "Vel'Koz",
+        "title": "the Eye of the Void",
+        "info": {
+            "attack": 2,
+            "defense": 2,
+            "magic": 10,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Velkoz.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 520,
+            "hpperlevel": 88,
+            "mp": 469,
+            "mpperlevel": 21,
+            "movespeed": 340,
+            "armor": 22,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3.1416,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "Vi": {
+        "name": "Vi",
+        "title": "the Piltover Enforcer",
+        "info": {
+            "attack": 8,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Vi.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 585,
+            "hpperlevel": 85,
+            "mp": 295,
+            "mpperlevel": 65,
+            "movespeed": 340,
+            "armor": 30,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 10,
+            "hpregenperlevel": 1,
+            "mpregen": 8,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.644
+        }
+    },
+    "Viego": {
+        "name": "Viego",
+        "title": "The Ruined King",
+        "info": {
+            "attack": 6,
+            "defense": 4,
+            "magic": 2,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Viego.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 95,
+            "mp": 10000,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 34,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 200,
+            "hpregen": 7,
+            "hpregenperlevel": 0.7,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 57,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.658
+        }
+    },
+    "Viktor": {
+        "name": "Viktor",
+        "title": "the Machine Herald",
+        "info": {
+            "attack": 2,
+            "defense": 4,
+            "magic": 10,
+            "difficulty": 9
+        },
+        "image": {
+            "full": "Viktor.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 530,
+            "hpperlevel": 90,
+            "mp": 405,
+            "mpperlevel": 45,
+            "movespeed": 335,
+            "armor": 23,
+            "armorperlevel": 4,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 8,
+            "hpregenperlevel": 0.65,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.11,
+            "attackspeed": 0.658
+        }
+    },
+    "Vladimir": {
+        "name": "Vladimir",
+        "title": "the Crimson Reaper",
+        "info": {
+            "attack": 2,
+            "defense": 6,
+            "magic": 8,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Vladimir.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Crimson Rush",
+        "stats": {
+            "hp": 537,
+            "hpperlevel": 96,
+            "mp": 2,
+            "mpperlevel": 0,
+            "movespeed": 330,
+            "armor": 23,
+            "armorperlevel": 3.3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 450,
+            "hpregen": 7,
+            "hpregenperlevel": 0.6,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.658
+        }
+    },
+    "Volibear": {
+        "name": "Volibear",
+        "title": "the Relentless Storm",
+        "info": {
+            "attack": 7,
+            "defense": 7,
+            "magic": 4,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Volibear.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 90,
+            "mp": 350,
+            "mpperlevel": 70,
+            "movespeed": 340,
+            "armor": 31,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 150,
+            "hpregen": 9,
+            "hpregenperlevel": 0.75,
+            "mpregen": 6.25,
+            "mpregenperlevel": 0.5,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "Warwick": {
+        "name": "Warwick",
+        "title": "the Uncaged Wrath of Zaun",
+        "info": {
+            "attack": 9,
+            "defense": 5,
+            "magic": 3,
+            "difficulty": 3
+        },
+        "image": {
+            "full": "Warwick.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 85,
+            "mp": 280,
+            "mpperlevel": 35,
+            "movespeed": 335,
+            "armor": 33,
+            "armorperlevel": 3.2,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 4,
+            "hpregenperlevel": 0.75,
+            "mpregen": 7.47,
+            "mpregenperlevel": 0.58,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 65,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.3,
+            "attackspeed": 0.638
+        }
+    },
+    "Xayah": {
+        "name": "Xayah",
+        "title": "the Rebel",
+        "info": {
+            "attack": 10,
+            "defense": 6,
+            "magic": 1,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Xayah.png"
+        },
+        "tags": [
+            "Marksman"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 590,
+            "hpperlevel": 88,
+            "mp": 340,
+            "mpperlevel": 40,
+            "movespeed": 325,
+            "armor": 25,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 3.25,
+            "hpregenperlevel": 0.75,
+            "mpregen": 8.25,
+            "mpregenperlevel": 0.75,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3.5,
+            "attackspeedperlevel": 3.9,
+            "attackspeed": 0.625
+        }
+    },
+    "Xerath": {
+        "name": "Xerath",
+        "title": "the Magus Ascendant",
+        "info": {
+            "attack": 1,
+            "defense": 3,
+            "magic": 10,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Xerath.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 526,
+            "hpperlevel": 92,
+            "mp": 459,
+            "mpperlevel": 22,
+            "movespeed": 340,
+            "armor": 22,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 525,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.55,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 1.36,
+            "attackspeed": 0.625
+        }
+    },
+    "XinZhao": {
+        "name": "Xin Zhao",
+        "title": "the Seneschal of Demacia",
+        "info": {
+            "attack": 8,
+            "defense": 6,
+            "magic": 3,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "XinZhao.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 570,
+            "hpperlevel": 92,
+            "mp": 274,
+            "mpperlevel": 55,
+            "movespeed": 345,
+            "armor": 35,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.7,
+            "mpregen": 7.26,
+            "mpregenperlevel": 0.45,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.645
+        }
+    },
+    "Yasuo": {
+        "name": "Yasuo",
+        "title": "the Unforgiven",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 4,
+            "difficulty": 10
+        },
+        "image": {
+            "full": "Yasuo.png"
+        },
+        "tags": [
+            "Fighter",
+            "Assassin"
+        ],
+        "partype": "Flow",
+        "stats": {
+            "hp": 490,
+            "hpperlevel": 87,
+            "mp": 100,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 30,
+            "armorperlevel": 3.4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.9,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.697
+        }
+    },
+    "Yone": {
+        "name": "Yone",
+        "title": "the Unforgotten",
+        "info": {
+            "attack": 8,
+            "defense": 4,
+            "magic": 4,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Yone.png"
+        },
+        "tags": [
+            "Assassin",
+            "Fighter"
+        ],
+        "partype": "Flow",
+        "stats": {
+            "hp": 550,
+            "hpperlevel": 85,
+            "mp": 500,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 28,
+            "armorperlevel": 3.4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 7.5,
+            "hpregenperlevel": 0.75,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 2,
+            "attackspeedperlevel": 3.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Yorick": {
+        "name": "Yorick",
+        "title": "Shepherd of Souls",
+        "info": {
+            "attack": 6,
+            "defense": 6,
+            "magic": 4,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Yorick.png"
+        },
+        "tags": [
+            "Fighter",
+            "Tank"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 580,
+            "hpperlevel": 100,
+            "mp": 300,
+            "mpperlevel": 60,
+            "movespeed": 340,
+            "armor": 39,
+            "armorperlevel": 4,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.8,
+            "mpregen": 7.5,
+            "mpregenperlevel": 0.75,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 62,
+            "attackdamageperlevel": 5,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.625
+        }
+    },
+    "Yuumi": {
+        "name": "Yuumi",
+        "title": "the Magical Cat",
+        "info": {
+            "attack": 5,
+            "defense": 1,
+            "magic": 8,
+            "difficulty": 2
+        },
+        "image": {
+            "full": "Yuumi.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 480,
+            "hpperlevel": 70,
+            "mp": 400,
+            "mpperlevel": 45,
+            "movespeed": 330,
+            "armor": 25,
+            "armorperlevel": 3,
+            "spellblock": 25,
+            "spellblockperlevel": 0.3,
+            "attackrange": 500,
+            "hpregen": 7,
+            "hpregenperlevel": 0.55,
+            "mpregen": 10,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 55,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 1,
+            "attackspeed": 0.625
+        }
+    },
+    "Zac": {
+        "name": "Zac",
+        "title": "the Secret Weapon",
+        "info": {
+            "attack": 3,
+            "defense": 7,
+            "magic": 7,
+            "difficulty": 8
+        },
+        "image": {
+            "full": "Zac.png"
+        },
+        "tags": [
+            "Tank",
+            "Fighter"
+        ],
+        "partype": "None",
+        "stats": {
+            "hp": 615,
+            "hpperlevel": 95,
+            "mp": 0,
+            "mpperlevel": 0,
+            "movespeed": 340,
+            "armor": 33,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 175,
+            "hpregen": 8,
+            "hpregenperlevel": 0.5,
+            "mpregen": 0,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 60,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 1.6,
+            "attackspeed": 0.736
+        }
+    },
+    "Zed": {
+        "name": "Zed",
+        "title": "the Master of Shadows",
+        "info": {
+            "attack": 9,
+            "defense": 2,
+            "magic": 1,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Zed.png"
+        },
+        "tags": [
+            "Assassin"
+        ],
+        "partype": "Energy",
+        "stats": {
+            "hp": 584,
+            "hpperlevel": 85,
+            "mp": 200,
+            "mpperlevel": 0,
+            "movespeed": 345,
+            "armor": 32,
+            "armorperlevel": 3.5,
+            "spellblock": 32,
+            "spellblockperlevel": 1.25,
+            "attackrange": 125,
+            "hpregen": 7,
+            "hpregenperlevel": 0.65,
+            "mpregen": 50,
+            "mpregenperlevel": 0,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 63,
+            "attackdamageperlevel": 3.4,
+            "attackspeedperlevel": 3.3,
+            "attackspeed": 0.651
+        }
+    },
+    "Ziggs": {
+        "name": "Ziggs",
+        "title": "the Hexplosives Expert",
+        "info": {
+            "attack": 2,
+            "defense": 4,
+            "magic": 9,
+            "difficulty": 4
+        },
+        "image": {
+            "full": "Ziggs.png"
+        },
+        "tags": [
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 536,
+            "hpperlevel": 92,
+            "mp": 480,
+            "mpperlevel": 23.5,
+            "movespeed": 325,
+            "armor": 22,
+            "armorperlevel": 3.3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 54,
+            "attackdamageperlevel": 3.1,
+            "attackspeedperlevel": 2,
+            "attackspeed": 0.656
+        }
+    },
+    "Zilean": {
+        "name": "Zilean",
+        "title": "the Chronokeeper",
+        "info": {
+            "attack": 2,
+            "defense": 5,
+            "magic": 8,
+            "difficulty": 6
+        },
+        "image": {
+            "full": "Zilean.png"
+        },
+        "tags": [
+            "Support",
+            "Mage"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 504,
+            "hpperlevel": 82,
+            "mp": 452,
+            "mpperlevel": 50,
+            "movespeed": 335,
+            "armor": 24,
+            "armorperlevel": 3.8,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 11.34,
+            "mpregenperlevel": 0.8,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 52,
+            "attackdamageperlevel": 3,
+            "attackspeedperlevel": 2.13,
+            "attackspeed": 0.625
+        }
+    },
+    "Zoe": {
+        "name": "Zoe",
+        "title": "the Aspect of Twilight",
+        "info": {
+            "attack": 1,
+            "defense": 7,
+            "magic": 8,
+            "difficulty": 5
+        },
+        "image": {
+            "full": "Zoe.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 560,
+            "hpperlevel": 92,
+            "mp": 425,
+            "mpperlevel": 25,
+            "movespeed": 340,
+            "armor": 21,
+            "armorperlevel": 3.5,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 550,
+            "hpregen": 6.5,
+            "hpregenperlevel": 0.6,
+            "mpregen": 8,
+            "mpregenperlevel": 0.65,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 58,
+            "attackdamageperlevel": 3.3,
+            "attackspeedperlevel": 2.5,
+            "attackspeed": 0.625
+        }
+    },
+    "Zyra": {
+        "name": "Zyra",
+        "title": "Rise of the Thorns",
+        "info": {
+            "attack": 4,
+            "defense": 3,
+            "magic": 8,
+            "difficulty": 7
+        },
+        "image": {
+            "full": "Zyra.png"
+        },
+        "tags": [
+            "Mage",
+            "Support"
+        ],
+        "partype": "Mana",
+        "stats": {
+            "hp": 504,
+            "hpperlevel": 79,
+            "mp": 418,
+            "mpperlevel": 25,
+            "movespeed": 340,
+            "armor": 29,
+            "armorperlevel": 3,
+            "spellblock": 30,
+            "spellblockperlevel": 0.5,
+            "attackrange": 575,
+            "hpregen": 5.5,
+            "hpregenperlevel": 0.5,
+            "mpregen": 13,
+            "mpregenperlevel": 0.4,
+            "crit": 0,
+            "critperlevel": 0,
+            "attackdamage": 53,
+            "attackdamageperlevel": 3.2,
+            "attackspeedperlevel": 2.11,
+            "attackspeed": 0.625
+        }
+    }
+}
