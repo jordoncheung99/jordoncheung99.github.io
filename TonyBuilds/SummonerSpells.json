@@ -1,0 +1,30 @@
+[
+    {
+        "Name":"Ghost",
+        "Icon":"SummonerHaste.png"
+    },
+    {
+        "Name":"Barrier",
+        "Icon":"SummonerBarrier.png"
+    },
+    {
+        "Name":"Cleanse",
+        "Icon":"SummonerBoost.png"
+    },
+    {
+        "Name":"Ignite",
+        "Icon":"SummonerDot.png"
+    },
+    {
+        "Name":"Heal",
+        "Icon":"SummonerHeal.png"
+    },
+    {
+        "Name":"Clarity",
+        "Icon":"SummonerMana.png"
+    },
+    {
+        "Name":"Snowball",
+        "Icon":"SummonerSnowball.png"
+    }
+]

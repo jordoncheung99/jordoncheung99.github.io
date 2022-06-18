@@ -1,0 +1,35 @@
+[
+    [
+        {
+            "path": "perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsAttackSpeedIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsCDRScalingIcon.png"
+        }
+    ],
+    [
+        {
+            "path": "perk-images/StatMods/StatModsAdaptiveForceIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsArmorIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsMagicResIcon.MagicResist_Fix.png"
+        }
+    ],
+    [
+        {
+            "path": "perk-images/StatMods/StatModsHealthScalingIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsArmorIcon.png"
+        },
+        {
+            "path": "perk-images/StatMods/StatModsMagicResIcon.MagicResist_Fix.png"
+        }
+    ]
+]
